@@ -37,8 +37,8 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['94784997828','']
-global.premium = ['94784997828','94784997828']
+global.owner = ['94729359255','']
+global.premium = ['94729359255','94729359255']
 global.botname = 'SHEWON MD BOT'
 global.ownername = 'Shewon'
 global.group1 = 'https://chat.whatsapp.com/Fm4u0QPs077451u4WIk6Lt'
